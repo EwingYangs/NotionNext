@@ -37,8 +37,8 @@ const CONFIG = {
     '你好！我是疯狂小嘉哥',
     '🔍 线上教育程序员',
     '💰 副业独立开发',
-    '🤖️ 爬虫逆向'
-    '🚀 效率上瘾'
+    '🤖️ 爬虫逆向',
+    '🚀 效率上瘾',
     '🏠 Notion重度使用者'
   ],
   HEO_INFO_CARD_URL: 'https://github.com/EwingYangs', // 个人资料底部按钮链接
