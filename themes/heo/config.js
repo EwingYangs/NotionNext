@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程、爬虫逆向',
-  HEO_HERO_TITLE_2: '半独立开发者、notion周边产品',
+  HEO_HERO_TITLE_1: '分享编程爬虫逆向',
+  HEO_HERO_TITLE_2: '半独立开发者',
   HEO_HERO_TITLE_3: 'BLOG.NOTIONEDU.COM',
   HEO_HERO_TITLE_4: 'Notion记账',
   HEO_HERO_TITLE_5: 'Notion记账V1.0.0 轻松实现记账',
