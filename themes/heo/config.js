@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程/爬虫/逆向/Notion',
   HEO_HERO_TITLE_2: '副业独立开发',
   HEO_HERO_TITLE_3: 'BLOG.NOTIONEDU.COM',
-  HEO_HERO_TITLE_4: 'Notion记账',
+  HEO_HERO_TITLE_4: '独立开发产品',
   HEO_HERO_TITLE_5: 'Notion记账V1.0.0 轻松实现记账',
   HEO_HERO_TITLE_LINK: 'https://blog.notionedu.com',
 
