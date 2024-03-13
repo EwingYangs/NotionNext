@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程爬虫逆向',
-  HEO_HERO_TITLE_2: '半独立开发者',
+  HEO_HERO_TITLE_1: '分享编程/爬虫',
+  HEO_HERO_TITLE_2: '副业独立开发',
   HEO_HERO_TITLE_3: 'BLOG.NOTIONEDU.COM',
   HEO_HERO_TITLE_4: 'Notion记账',
   HEO_HERO_TITLE_5: 'Notion记账V1.0.0 轻松实现记账',
@@ -36,9 +36,10 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是疯狂小嘉哥',
     '🔍 线上教育程序员',
-    '🚀 半独立开发者',
-    '🏠 Notion重度使用者',
+    '💰 副业独立开发',
     '🤖️ 爬虫逆向'
+    '🚀 效率上瘾'
+    '🏠 Notion重度使用者'
   ],
   HEO_INFO_CARD_URL: 'https://github.com/EwingYangs', // 个人资料底部按钮链接
 
