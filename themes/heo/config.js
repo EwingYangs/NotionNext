@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '半独立开发者',
+  HEO_HERO_TITLE_1: '分享编程、爬虫逆向',
+  HEO_HERO_TITLE_2: '半独立开发者、notion周边产品',
   HEO_HERO_TITLE_3: 'BLOG.NOTIONEDU.COM',
   HEO_HERO_TITLE_4: 'Notion记账',
   HEO_HERO_TITLE_5: 'Notion记账V1.0.0 轻松实现记账',
@@ -106,7 +106,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: '',
+  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
