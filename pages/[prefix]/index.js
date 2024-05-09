@@ -38,22 +38,16 @@ const Slug = props => {
   // 文章加载
   useEffect(() => {
     // 文章加密
-    // if (post?.password && post?.password !== '') {
-    //   setLock(true)
-    // } else {
-    //   setLock(false)
-    //   if (!lock && post?.blockMap?.block) {
-    //     post.content = Object.keys(post.blockMap.block).filter(
-    //       key => post.blockMap.block[key]?.value?.parent_id === post.id
-    //     )
-    //     post.toc = getPageTableOfContents(post, post.blockMap)
-    //   }
-    // }
-    if (!lock && post?.blockMap?.block) {
+    if (post?.password && post?.password !== '') {
+      setLock(true)
+    } else {
+      setLock(false)
+      if (!lock && post?.blockMap?.block) {
         post.content = Object.keys(post.blockMap.block).filter(
           key => post.blockMap.block[key]?.value?.parent_id === post.id
         )
         post.toc = getPageTableOfContents(post, post.blockMap)
+      }
     }
   }, [post])
 
