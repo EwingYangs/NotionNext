@@ -40,7 +40,7 @@ const CONFIG = {
     '🤖️ Java/PHP/Python/爬虫逆向',
     '🏠 专研Notion插件开发，模版定制方向',
     '💻 公众号：Notion概念指南',
-    '🎈 小红书：自律的小嘉同学',
+    '🎈 小红书：自律的小嘉同学'
   ],
   HEO_INFO_CARD_URL: 'https://github.com/EwingYangs', // 个人资料底部按钮链接
 
