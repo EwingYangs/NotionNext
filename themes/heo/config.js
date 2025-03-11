@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享独立开发',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'Notionify',
+  HEO_HERO_TITLE_3: '目标、成本、收益、风险',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'NotesToNotion V0.1.11-小红书收藏自动同步到Notion',
   HEO_HERO_TITLE_LINK: 'https://notes2notion.notionify.net',
@@ -54,7 +54,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://github.com/EwingYangs',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://www.notionify.net',
-  HEO_INFO_CARD_TEXT3: 'Notionify团队',
+  HEO_INFO_CARD_TEXT3: '我的团队',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [],
