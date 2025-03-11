@@ -61,7 +61,7 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '可以加入我们的NotesToNotion社群讨论',
+  HEO_SOCIAL_CARD_TITLE_2: '可以加入我们的社群讨论',
   HEO_SOCIAL_CARD_TITLE_3: '如何联系我',
   HEO_SOCIAL_CARD_URL: 'https://blog.notionedu.com/contact',
 
