@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.notionedu.com' },
-    { title: '小红书收藏自动同步到Notion已上线', url: 'https://notes2notion.notionify.net' }
+    { title: 'AI一键剪藏插件Clipno已上线', url: 'https://clipno.app' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -22,8 +22,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: '目标、成本、收益、风险',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotesToNotion V0.1.11-小红书收藏自动同步到Notion',
-  HEO_HERO_TITLE_LINK: 'https://notes2notion.notionify.net',
+  HEO_HERO_TITLE_5: 'Clipno V0.0.1 一键剪藏网页到Notion',
+  HEO_HERO_TITLE_LINK: 'https://clipno.app',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/EwingYangs',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.notionify.net',
+  HEO_INFO_CARD_URL3: 'https://clipno.app',
   HEO_INFO_CARD_TEXT3: '我的团队',
 
   // 用户技能图标
